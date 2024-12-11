@@ -146,3 +146,5 @@ Fix: reduced model loading time for Apex Shortz
 
 Update: tuned quantization levels for local inference
 
+Update: tuned quantization levels for local inference
+
