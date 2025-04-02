@@ -304,3 +304,5 @@ Setup: finalized Docker-compose for distributed workers
 
 Setup: finalized Docker-compose for distributed workers
 
+Fix OOM: optimized VRAM allocation for Whisper
+
