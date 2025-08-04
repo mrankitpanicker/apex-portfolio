@@ -516,3 +516,5 @@ Patch: resolved memory leak in video rendering loop
 
 Tweak: adjusted worker concurrency to avoid CPU bottleneck
 
+Logic: improved error handling for local-first CRM
+
