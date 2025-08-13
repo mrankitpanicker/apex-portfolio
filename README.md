@@ -538,3 +538,5 @@ Update: tuned quantization levels for local inference
 
 Update: tuned quantization levels for local inference
 
+Patch: resolved memory leak in video rendering loop
+
