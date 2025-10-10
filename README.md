@@ -626,3 +626,5 @@ Patch: resolved memory leak in video rendering loop
 
 Tweak: adjusted worker concurrency to avoid CPU bottleneck
 
+Tweak: adjusted worker concurrency to avoid CPU bottleneck
+
